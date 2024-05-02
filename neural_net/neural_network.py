@@ -89,4 +89,3 @@ class NeuralNetwork:
         print(f"Learning Rate: {self.learn_rate}\n")
         print(f"Weights, INPUT -> HIDDEN: \n{self.weights_i_h}\n")
         print(f"Weights, HIDDEN -> OUTPUT: \n{self.weights_h_o}\n")
-
